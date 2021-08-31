@@ -1,4 +1,4 @@
-package student_mgn_taedi.dao;
+package student_mgn_kts.dao;
 
 import static org.junit.Assert.fail;
 
@@ -11,8 +11,8 @@ import org.junit.FixMethodOrder;
 import org.junit.Test;
 import org.junit.runners.MethodSorters;
 
-import student_mgn_taedi.dao.impl.StudentDaoImpl;
-import student_mgn_taedi.dto.Student;
+import student_mgn_kts.dao.impl.StudentDaoImpl;
+import student_mgn_kts.dto.Student;
 
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class StudentDaoTest {

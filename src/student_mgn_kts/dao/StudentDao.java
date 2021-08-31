@@ -1,8 +1,8 @@
-package student_mgn_taedi.dao;
+package student_mgn_kts.dao;
 
 import java.util.ArrayList;
 
-import student_mgn_taedi.dto.Student;
+import student_mgn_kts.dto.Student;
 
 public interface StudentDao {
 	

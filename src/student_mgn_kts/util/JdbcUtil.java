@@ -1,4 +1,4 @@
-package student_mgn_taedi.util;
+package student_mgn_kts.util;
 
 import java.io.IOException;
 import java.io.InputStream;

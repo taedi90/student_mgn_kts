@@ -1,4 +1,4 @@
-package student_mgn_taedi.dto;
+package student_mgn_kts.dto;
 
 public class Student {
 	private int no;

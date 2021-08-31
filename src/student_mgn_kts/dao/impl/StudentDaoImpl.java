@@ -1,4 +1,4 @@
-package student_mgn_taedi.dao.impl;
+package student_mgn_kts.dao.impl;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,9 +6,9 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import student_mgn_taedi.dao.StudentDao;
-import student_mgn_taedi.dto.Student;
-import student_mgn_taedi.util.JdbcUtil;
+import student_mgn_kts.dao.StudentDao;
+import student_mgn_kts.dto.Student;
+import student_mgn_kts.util.JdbcUtil;
 
 public class StudentDaoImpl implements StudentDao {
 
